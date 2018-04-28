@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'gkai';
+  src: url('./gkai.ttf') format('truetype');
+}
+
+.kbox{
+  font-size: 45pt;
+  font-family: gkai, sans-serif;
+}
+.kana{
+  font-size: 10pt;
+  padding-top: 20px;
+  padding-left: 20px;
+  writing-mode: vertical-lr !important;
+  font-family: gkai, sans-serif;
+}
+.fborder{
+  padding-left:3px;
+  border-left: solid 1px;
+}
+
+.vi{
+  font-size: 15pt;
+  padding-left: 10px;
+}
+
+ruby {
+  -webkit-ruby-position: after;
+  ruby-position: under;
+}
