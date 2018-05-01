@@ -5,14 +5,14 @@
 
 .kbox{
   font-size: 45pt;
-  font-family: gkai, sans-serif;
+  font-family: Roboto, sans-serif;
 }
 .kana{
   font-size: 10pt;
   padding-top: 20px;
   padding-left: 20px;
   writing-mode: vertical-lr !important;
-  font-family: gkai, sans-serif;
+  font-family: Roboto, sans-serif;
 }
 .fborder{
   padding-left:3px;
